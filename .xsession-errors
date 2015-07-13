@@ -311,3 +311,17 @@ Window manager warning: Log level 8: meta_end_modal_for_plugin: assertion 'compo
 (midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
 
 (process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
