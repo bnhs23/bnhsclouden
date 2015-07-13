@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+      
+      <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+      <title>virtualenv 13.1.0 : Python Package Index</title>
+      <meta content="setuptools deployment installation distutils"/>
+      <meta content="Virtual Python Environment builder"/>
+       <link rel="alternate" type="application/rss+xml" title="RSS: 40 latest updates" href="https://pypi.python.org/pypi?:action=rss"/>
+       <link rel="alternate" type="application/rss+xml" title="RSS: 40 newest packages" href="https://pypi.python.org/pypi?:action=packages_rss"/>
+       <link rel="stylesheet" media="screen" href="/static/styles/screen-switcher-default.css" type="text/css"/>
+       <link media="screen" href="/static/styles/netscape4.css" type="text/css" rel="stylesheet"/>
+       <link media="print" href="/static/styles/print.css" type="text/css" rel="stylesheet"/>
+       <link media="screen" href="/static/styles/largestyles.css" type="text/css" rel="alternate stylesheet" title="large text"/>
+       <link media="screen" href="/static/styles/defaultfonts.css" type="text/css" rel="alternate stylesheet" title="default fonts"/>
+       <link rel="stylesheet" media="screen" href="/static/css/docutils.css" type="text/css"/>
+       <link rel="stylesheet" media="screen" href="/static/css/pygments.css" type="text/css"/>
+
+       <!-- allow pypi to override the standard pydotorg/docutils/etc. styles -->
+       <link rel="stylesheet" href="/static/css/pypi.css" type="text/css"/>
+       <link media="screen" rel="stylesheet" href="/static/css/pypi-screen.css" type="text/css"/>
+
+       
+       <meta name="google-site-verification" content="NSgF04qslVV4P7nymxJDSkWVK09zfdPTxgZfU3dNSoQ"/>
+       
+
+       
+ <meta name="keywords" content="setuptools deployment installation distutils"/>
+ <meta name="description" content="Virtual Python Environment builder"/>
+ <link rel="meta" title="DOAP" type="application/rdf+xml" href="/pypi?:action=doap&amp;name=virtualenv&amp;version=13.1.0"/>
+ <style type="text/css">
+  table.form th {white-space: pre;}
+ </style>
+
+
+       <style type="text/css">
+       </style>
+    </head>
+    <body>
+     
+
+      <!--  Logo  -->
+      <h1 id="logoheader">
+       <a accesskey="1" href="http://www.python.org" id="logolink">
+          <img src="/static/images/python-logo.png" alt="homepage" border="0" id="logo"/>
+       </a>
+      </h1>
+      <!--  Skip to Navigation  -->
+      <div class="skiptonav"><a accesskey="2" href="#left-hand-navigation"><img src="/static/images/trans.gif" alt="skip to navigation" border="0" id="skiptonav"/></a></div>
+      <div class="skiptonav"><a accesskey="3" href="#content-body"><img src="/static/images/trans.gif" alt="skip to content" border="0" id="skiptocontent"/></a></div>
+      <!--  Utility Menu  -->
+
+      <div id="utility-menu">
+        <!--  Search Box  -->
+        <div id="searchbox">
+          <form id="searchform" method="get" name="searchform" action="/pypi">
+            <input type="hidden" name=":action" value="search"/>
+            <div id="search">
+              <input class="input-text" id="term" name="term" autofocus="autofocus"/>
+              <input class="input-button" type="submit" name="submit" value="search" id="submit"/>
+            </div>
+          </form>
+        </div>
+<!-- XXX: reinstate this       <div id="screen-switcher"></div> -->
+      </div>
+      <div id="left-hand-navigation">
+
+        <!--  Main Menu NEED LEVEL TWO HEADER AND FOOTER -->
+        <div id="menu">
+          <ul class="level-one">
+            <li class="selected">
+              <a class="selected" href="/pypi">Package Index</a>
+
+              <ul class="level-two">
+
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=browse">Browse&nbsp;packages</a></li>
+                
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=submit_form">Package&nbsp;submission</a></li>
+                
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=list_classifiers">List&nbsp;trove&nbsp;classifiers</a></li>
+                
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=index">List&nbsp;packages</a></li>
+                
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=rss">RSS&nbsp;(latest&nbsp;40&nbsp;updates)</a></li>
+                
+                
+                  <li class=""><a class="" href="/pypi?%3Aaction=packages_rss">RSS&nbsp;(newest&nbsp;40&nbsp;packages)</a></li>
+                
+		<li><a href="/pypi?:action=browse&amp;c=533&amp;show=all">Python 3 Packages</a></li>
+        <li><a href="http://wiki.python.org/moin/CheeseShopTutorial">PyPI Tutorial</a></li>
+        <li><a href="/security">PyPI Security</a></li>
+        <li><a href="http://sourceforge.net/tracker/?group_id=66150&amp;atid=513504">PyPI Support</a></li>
+        <li><a href="https://bitbucket.org/pypa/pypi/issues">PyPI Bug Reports</a></li>
+        <li><a href="http://www.python.org/sigs/distutils-sig/">PyPI Discussion</a></li>
+        <li><a href="http://wiki.python.org/moin/CheeseShopDev">PyPI Developer Info</a></li>
+       </ul>
+
+            </li>
+
+
+
+
+            <li class=""><a href="http://www.python.org/about" class="" title="About The Python Language">About</a>
+            </li><li class=""><a href="http://www.python.org/news" class="" title="">News</a>
+            </li><li class=""><a href="http://www.python.org/doc" class="" title="">Documentation</a>
+            </li><li class=""><a href="http://www.python.org/download" title="">Download</a>
+
+
+            </li><li class=""><a href="http://www.python.org/community" class="" title="">Community</a>
+            </li><li class=""><a href="http://www.python.org/psf" class="" title="Python Software Foundation">Foundation</a>
+            </li><li class=""><a href="http://www.python.org/dev" class="" title="Python Core Language Development">Core Development</a>
+          </li>
+          </ul>
+        </div>
+
+      </div>
+      <div id="content-body">
+        <div id="body-main">
+          <div id="content">
+
+            <div id="breadcrumb">
+              <a href="/pypi">Package Index</a>
+              
+                <span class="breadcrumb-separator">&gt;</span>
+                <a href="/pypi/virtualenv">virtualenv</a>
+              
+              
+                <span class="breadcrumb-separator">&gt;</span>
+                <a href="/pypi/virtualenv/13.1.0">13.1.0</a>
+              
+
+            </div>
+
+            <div id="document-floating">
+
+            <div id="document-navigation" style="overflow-y: auto; max-height: 15em; overflow-x: hidden;">
+		
+                  <h4>Not Logged In</h4>
+
+                  <ul>
+		    
+                    <li><a href="/pypi?%3Aaction=login">Login</a></li>
+                    <li><a href="/pypi?%3Aaction=register_form">Register</a></li>
+                    <li><a href="/pypi?%3Aaction=forgotten_password_form">Lost Login?</a></li>
+		    <li>Use <a href="/pypi?:action=openid">OpenID</a>
+                      
+                        <a style="border: none;" href="/pypi?:action=login&amp;provider=Google"><img width="16" height="16" alt="Google" src="https://www.google.com/favicon.ico" title="Google"/></a>
+                      
+                      
+                        <a style="border: none;" href="/pypi?:action=login&amp;provider=Launchpad"><img width="16" height="16" alt="Launchpad" src="https://launchpad.net/@@/launchpad.png" title="Launchpad"/></a>
+                      
+                    </li>
+                  </ul>
+
+		
+
+		
+
+                <div id="statusdiv">
+                </div>
+            </div>
+        </div>
+        
+
+
+            <div class="section">
+              <h1>virtualenv 13.1.0</h1>
+
+              
+<div id="download-button">
+ 
+ <a class="button green" style="float:right;" href="#downloads">Downloads &darr;</a>
+</div>
+
+<p style="font-style: italic">Virtual Python Environment builder</p>
+
+
+
+
+
+
+
+
+Virtualenv<br>==========<br><br>`Mailing list &lt;http: groups.google.com="" group="" python-virtualenv=""&gt;`_ |<br>`Issues &lt;https: github.com="" pypa="" virtualenv="" issues=""&gt;`_ |<br>`Github &lt;https: github.com="" pypa="" virtualenv=""&gt;`_ |<br>`PyPI &lt;https: pypi.python.org="" pypi="" virtualenv=""/&gt;`_ |<br>User IRC: #pypa<br>Dev IRC: #pypa-dev<br><br>Introduction<br>------------<br><br>``virtualenv`` is a tool to create isolated Python environments.<br><br>The basic problem being addressed is one of dependencies and versions,<br>and indirectly permissions. Imagine you have an application that<br>needs version 1 of LibFoo, but another application requires version<br>2. How can you use both these applications?  If you install<br>everything into ``/usr/lib/python2.7/site-packages`` (or whatever your<br>platform's standard location is), it's easy to end up in a situation<br>where you unintentionally upgrade an application that shouldn't be<br>upgraded.<br><br>Or more generally, what if you want to install an application *and<br>leave it be*?  If an application works, any change in its libraries or<br>the versions of those libraries can break the application.<br><br>Also, what if you can't install packages into the global<br>``site-packages`` directory?  For instance, on a shared host.<br><br>In all these cases, ``virtualenv`` can help you. It creates an<br>environment that has its own installation directories, that doesn't<br>share libraries with other virtualenv environments (and optionally<br>doesn't access the globally installed libraries either).<br><br>.. comment: <br><br>Release History<br>===============<br><br>13.1.0 (2015-06-30)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade pip to 7.1.0<br><br>* Upgrade setuptools to 18.0.1<br><br><br>13.0.3 (2015-06-01)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade pip to 7.0.3<br><br><br>13.0.2 (2015-06-01)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade pip to 7.0.2<br><br>* Upgrade setuptools to 17.0<br><br><br>13.0.1 (2015-05-22)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade pip to 7.0.1<br><br><br>13.0.0 (2015-05-21)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Automatically install wheel when creating a new virutalenv. This can be<br>  disabled by using the ``--no-wheel`` option.<br><br>* Don't trust the current directory as a location to discover files to install<br>  packages from.<br><br>* Upgrade setuptools to 16.0.<br><br>* Upgrade pip to 7.0.0.<br><br><br>12.1.1 (2015-04-07)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade pip to 6.1.1<br><br><br>12.1.0 (2015-04-07)<br>~~~~~~~~~~~~~~~~~~~<br><br>* Upgrade setuptools to 15.0<br><br>* Upgrade pip to 6.1.0<br><br><br>12.0.7 (2015-02-04)<br>-------------------<br><br>* Upgrade pip to 6.0.8<br><br><br>12.0.6 (2015-01-28)<br>-------------------<br><br>* Upgrade pip to 6.0.7<br><br>* Upgrade setuptools to 12.0.5<br><br><br>12.0.5 (2015-01-03)<br>-------------------<br><br>* Upgrade pip to 6.0.6<br><br>* Upgrade setuptools to 11.0<br><br><br>12.0.4 (2014-12-23)<br>-------------------<br><br>* Revert the fix to ``-p`` on Debian based pythons as it was broken in other<br>  situations.<br><br>* Revert several sys.path changes new in 12.0 which were breaking virtualenv.<br><br>12.0.3 (2014-12-23)<br>-------------------<br><br>* Fix an issue where Debian based Pythons would fail when using -p with the<br>  host Python.<br><br>* Upgrade pip to 6.0.3<br><br>12.0.2 (2014-12-23)<br>-------------------<br><br>* Upgraded pip to 6.0.2<br><br>12.0.1 (2014-12-22)<br>-------------------<br><br>* Upgraded pip to 6.0.1<br><br><br>12.0 (2014-12-22)<br>-----------------<br><br>* **PROCESS** Version numbers are now simply ``X.Y`` where the leading ``1``<br>  has been dropped.<br>* Split up documentation into structured pages<br>* Now using pytest framework<br>* Correct sys.path ordering for debian, issue #461<br>* Correctly throws error on older Pythons, issue #619<br>* Allow for empty $PATH, pull #601<br>* Don't set prompt if $env:VIRTUAL_ENV_DISABLE_PROMPT is set for Powershell<br>* Updated setuptools to 7.0<br><br>1.11.6 (2014-05-16)<br>-------------------<br><br>* Updated setuptools to 3.6<br>* Updated pip to 1.5.6<br><br>1.11.5 (2014-05-03)<br>-------------------<br><br>* Updated setuptools to 3.4.4<br>* Updated documentation to use https://virtualenv.pypa.io/<br>* Updated pip to 1.5.5<br><br>1.11.4 (2014-02-21)<br>-------------------<br><br>* Updated pip to 1.5.4<br><br><br>1.11.3 (2014-02-20)<br>-------------------<br><br>* Updated setuptools to 2.2<br>* Updated pip to 1.5.3<br><br><br>1.11.2 (2014-01-26)<br>-------------------<br><br>* Fixed easy_install installed virtualenvs by updated pip to 1.5.2<br><br>1.11.1 (2014-01-20)<br>-------------------<br><br>* Fixed an issue where pip and setuptools were not getting installed when using<br>  the ``--system-site-packages`` flag.<br>* Updated setuptools to fix an issue when installed with easy_install<br>* Fixed an issue with Python 3.4 and sys.stdout encoding being set to ascii<br>* Upgraded pip to v1.5.1<br>* Upgraded setuptools to v2.1<br><br>1.11 (2014-01-02)<br>-----------------<br><br>* **BACKWARDS INCOMPATIBLE** Switched to using wheels for the bundled copies of<br>  setuptools and pip. Using sdists is no longer supported - users supplying<br>  their own versions of pip/setuptools will need to provide wheels.<br>* **BACKWARDS INCOMPATIBLE** Modified the handling of ``--extra-search-dirs``.<br>  This option now works like pip's ``--find-links`` option, in that it adds<br>  extra directories to search for compatible wheels for pip and setuptools.<br>  The actual wheel selected is chosen based on version and compatibility, using<br>  the same algorithm as ``pip install setuptools``.<br>* Fixed #495, --always-copy was failing (#PR 511)<br>* Upgraded pip to v1.5<br>* Upgraded setuptools to v1.4<br><br>1.10.1 (2013-08-07)<br>-------------------<br><br>* **New Signing Key** Release 1.10.1 is using a different key than normal with<br>  fingerprint: 7C6B 7C5D 5E2B 6356 A926 F04F 6E3C BCE9 3372 DCFA<br>* Upgraded pip to v1.4.1<br>* Upgraded setuptools to v0.9.8<br><br><br>1.10 (2013-07-23)<br>-----------------<br><br>* **BACKWARDS INCOMPATIBLE** Dropped support for Python 2.5. The minimum<br>  supported Python version is now Python 2.6.<br><br>* **BACKWARDS INCOMPATIBLE** Using ``virtualenv.py`` as an isolated script<br>  (i.e. without an associated ``virtualenv_support`` directory) is no longer<br>  supported for security reasons and will fail with an error.<br><br>  Along with this, ``--never-download`` is now always pinned to ``True``, and<br>  is only being maintained in the short term for backward compatibility<br>  (Pull #412).<br><br>* **IMPORTANT** Switched to the new setuptools (v0.9.7) which has been merged<br>  with Distribute_ again and works for Python 2 and 3 with one codebase.<br>  The ``--distribute`` and ``--setuptools`` options are now no-op.<br><br>* Updated to pip 1.4.<br><br>* Added support for PyPy3k<br><br>* Added the option to use a version number with the ``-p`` option to get the<br>  system copy of that Python version (Windows only)<br><br>* Removed embedded ``ez_setup.py``, ``distribute_setup.py`` and<br>  ``distribute_from_egg.py`` files as part of switching to merged setuptools.<br><br>* Fixed ``--relocatable`` to work better on Windows.<br><br>* Fixed issue with readline on Windows.<br><br>.. _Distribute: https://pypi.python.org/pypi/distribute<br><br>1.9.1 (2013-03-08)<br>------------------<br><br>* Updated to pip 1.3.1 that fixed a major backward incompatible change of<br>  parsing URLs to externally hosted packages that got accidentily included<br>  in pip 1.3.<br><br>1.9 (2013-03-07)<br>----------------<br><br>* Unset VIRTUAL_ENV environment variable in deactivate.bat (Pull #364)<br>* Upgraded distribute to 0.6.34.<br>* Added ``--no-setuptools`` and ``--no-pip`` options (Pull #336).<br>* Fixed Issue #373. virtualenv-1.8.4 was failing in cygwin (Pull #382).<br>* Fixed Issue #378. virtualenv is now "multiarch" aware on debian/ubuntu (Pull #379).<br>* Fixed issue with readline module path on pypy and OSX (Pull #374).<br>* Made 64bit detection compatible with Python 2.5 (Pull #393).<br><br><br>1.8.4 (2012-11-25)<br>------------------<br><br>* Updated distribute to 0.6.31. This fixes #359 (numpy install regression) on<br>  UTF-8 platforms, and provides a workaround on other platforms:<br>  ``PYTHONIOENCODING=utf8 pip install numpy``.<br><br>* When installing virtualenv via curl, don't forget to filter out arguments<br>  the distribute setup script won't understand. Fixes #358.<br><br>* Added some more integration tests.<br><br>* Removed the unsupported embedded setuptools egg for Python 2.4 to reduce<br>  file size.<br><br>1.8.3 (2012-11-21)<br>------------------<br><br>* Fixed readline on OS X. Thanks minrk<br><br>* Updated distribute to 0.6.30 (improves our error reporting, plus new<br>  distribute features and fixes). Thanks Gabriel (g2p)<br><br>* Added compatibility with multiarch Python (Python 3.3 for example). Added an<br>  integration test. Thanks Gabriel (g2p)<br><br>* Added ability to install distribute from a user-provided egg, rather than the<br>  bundled sdist, for better speed. Thanks Paul Moore.<br><br>* Make the creation of lib64 symlink smarter about already-existing symlink,<br>  and more explicit about full paths. Fixes #334 and #330. Thanks Jeremy Orem.<br><br>* Give lib64 site-dir preference over lib on 64-bit systems, to avoid wrong<br>  32-bit compiles in the venv. Fixes #328. Thanks Damien Nozay.<br><br>* Fix a bug with prompt-handling in ``activate.csh`` in non-interactive csh<br>  shells. Fixes #332. Thanks Benjamin Root for report and patch.<br><br>* Make it possible to create a virtualenv from within a Python<br>  3.3. pyvenv. Thanks Chris McDonough for the report.<br><br>* Add optional --setuptools option to be able to switch to it in case<br>  distribute is the default (like in Debian).<br><br>1.8.2 (2012-09-06)<br>------------------<br><br>* Updated the included pip version to 1.2.1 to fix regressions introduced<br>  there in 1.2.<br><br><br>1.8.1 (2012-09-03)<br>------------------<br><br>* Fixed distribute version used with `--never-download`. Thanks michr for<br>  report and patch.<br><br>* Fix creating Python 3.3 based virtualenvs by unsetting the<br>  ``__PYVENV_LAUNCHER__`` environment variable in subprocesses.<br><br><br>1.8 (2012-09-01)<br>----------------<br><br>* **Dropped support for Python 2.4** The minimum supported Python version is<br>  now Python 2.5.<br><br>* Fix `--relocatable` on systems that use lib64. Fixes #78. Thanks Branden<br>  Rolston.<br><br>* Symlink some additional modules under Python 3. Fixes #194. Thanks Vinay<br>  Sajip, Ian Clelland, and Stefan Holek for the report.<br><br>* Fix ``--relocatable`` when a script uses ``__future__`` imports. Thanks<br>  Branden Rolston.<br><br>* Fix a bug in the config option parser that prevented setting negative<br>  options with environment variables. Thanks Ralf Schmitt.<br><br>* Allow setting ``--no-site-packages`` from the config file.<br><br>* Use ``/usr/bin/multiarch-platform`` if available to figure out the include<br>  directory. Thanks for the patch, Mika Laitio.<br><br>* Fix ``install_name_tool`` replacement to work on Python 3.X.<br><br>* Handle paths of users' site-packages on Mac OS X correctly when changing<br>  the prefix.<br><br>* Updated the embedded version of distribute to 0.6.28 and pip to 1.2.<br><br><br>1.7.2 (2012-06-22)<br>------------------<br><br>* Updated to distribute 0.6.27.<br><br>* Fix activate.fish on OS X. Fixes #8. Thanks David Schoonover.<br><br>* Create a virtualenv-x.x script with the Python version when installing, so<br>  virtualenv for multiple Python versions can be installed to the same<br>  script location. Thanks Miki Tebeka.<br><br>* Restored ability to create a virtualenv with a path longer than 78<br>  characters, without breaking creation of virtualenvs with non-ASCII paths.<br>  Thanks, Bradley Ayers.<br><br>* Added ability to create virtualenvs without having installed Apple's<br>  developers tools (using an own implementation of ``install_name_tool``).<br>  Thanks Mike Hommey.<br><br>* Fixed PyPy and Jython support on Windows. Thanks Konstantin Zemlyak.<br><br>* Added pydoc script to ease use. Thanks Marc Abramowitz. Fixes #149.<br><br>* Fixed creating a bootstrap script on Python 3. Thanks Raul Leal. Fixes #280.<br><br>* Fixed inconsistency when having set the ``PYTHONDONTWRITEBYTECODE`` env var<br>  with the --distribute option or the ``VIRTUALENV_USE_DISTRIBUTE`` env var.<br>  ``VIRTUALENV_USE_DISTRIBUTE`` is now considered again as a legacy alias.<br><br><br>1.7.1.2 (2012-02-17)<br>--------------------<br><br>* Fixed minor issue in `--relocatable`. Thanks, Cap Petschulat.<br><br><br>1.7.1.1 (2012-02-16)<br>--------------------<br><br>* Bumped the version string in ``virtualenv.py`` up, too.<br><br>* Fixed rST rendering bug of long description.<br><br><br>1.7.1 (2012-02-16)<br>------------------<br><br>* Update embedded pip to version 1.1.<br><br>* Fix `--relocatable` under Python 3. Thanks Doug Hellmann.<br><br>* Added environ PATH modification to activate_this.py. Thanks Doug<br>  Napoleone. Fixes #14.<br><br>* Support creating virtualenvs directly from a Python build directory on<br>  Windows. Thanks CBWhiz. Fixes #139.<br><br>* Use non-recursive symlinks to fix things up for posix_local install<br>  scheme. Thanks michr.<br><br>* Made activate script available for use with msys and cygwin on Windows.<br>  Thanks Greg Haskins, Cliff Xuan, Jonathan Griffin and Doug Napoleone.<br>  Fixes #176.<br><br>* Fixed creation of virtualenvs on Windows when Python is not installed for<br>  all users. Thanks Anatoly Techtonik for report and patch and Doug<br>  Napoleone for testing and confirmation. Fixes #87.<br><br>* Fixed creation of virtualenvs using -p in installs where some modules<br>  that ought to be in the standard library (e.g. `readline`) are actually<br>  installed in `site-packages` next to `virtualenv.py`. Thanks Greg Haskins<br>  for report and fix. Fixes #167.<br><br>* Added activation script for Powershell (signed by Jannis Leidel). Many<br>  thanks to Jason R. Coombs.<br><br><br>1.7 (2011-11-30)<br>----------------<br><br>* Gave user-provided ``--extra-search-dir`` priority over default dirs for<br>  finding setuptools/distribute (it already had priority for finding pip).<br>  Thanks Ethan Jucovy.<br><br>* Updated embedded Distribute release to 0.6.24. Thanks Alex Gronholm.<br><br>* Made ``--no-site-packages`` behavior the default behavior.  The<br>  ``--no-site-packages`` flag is still permitted, but displays a warning when<br>  used. Thanks Chris McDonough.<br><br>* New flag: ``--system-site-packages``; this flag should be passed to get the<br>  previous default global-site-package-including behavior back.<br><br>* Added ability to set command options as environment variables and options<br>  in a ``virtualenv.ini`` file.<br><br>* Fixed various encoding related issues with paths. Thanks Gunnlaugur Thor Briem.<br><br>* Made ``virtualenv.py`` script executable.<br><br><br>1.6.4 (2011-07-21)<br>------------------<br><br>* Restored ability to run on Python 2.4, too.<br><br><br>1.6.3 (2011-07-16)<br>------------------<br><br>* Restored ability to run on Python &lt; 2.7.<br><br><br>1.6.2 (2011-07-16)<br>------------------<br><br>* Updated embedded distribute release to 0.6.19.<br><br>* Updated embedded pip release to 1.0.2.<br><br>* Fixed #141 - Be smarter about finding pkg_resources when using the<br>  non-default Python interpreter (by using the ``-p`` option).<br><br>* Fixed #112 - Fixed path in docs.<br><br>* Fixed #109 - Corrected doctests of a Logger method.<br><br>* Fixed #118 - Fixed creating virtualenvs on platforms that use the<br>  "posix_local" install scheme, such as Ubuntu with Python 2.7.<br><br>* Add missing library to Python 3 virtualenvs (``_dummy_thread``).<br><br><br>1.6.1 (2011-04-30)<br>------------------<br><br>* Start to use git-flow.<br><br>* Added support for PyPy 1.5<br><br>* Fixed #121 -- added sanity-checking of the -p argument. Thanks Paul Nasrat.<br><br>* Added progress meter for pip installation as well as setuptools. Thanks Ethan<br>  Jucovy.<br><br>* Added --never-download and --search-dir options. Thanks Ethan Jucovy.<br><br><br>1.6<br>---<br><br>* Added Python 3 support! Huge thanks to Vinay Sajip and Vitaly Babiy.<br><br>* Fixed creation of virtualenvs on Mac OS X when standard library modules<br>  (readline) are installed outside the standard library.<br><br>* Updated bundled pip to 1.0.<br><br><br>1.5.2<br>-----<br><br>* Moved main repository to Github: https://github.com/pypa/virtualenv<br><br>* Transferred primary maintenance from Ian to Jannis Leidel, Carl Meyer and Brian Rosner<br><br>* Fixed a few more pypy related bugs.<br><br>* Updated bundled pip to 0.8.2.<br><br>* Handed project over to new team of maintainers.<br><br>* Moved virtualenv to Github at https://github.com/pypa/virtualenv<br><br><br>1.5.1<br>-----<br><br>* Added ``_weakrefset`` requirement for Python 2.7.1.<br><br>* Fixed Windows regression in 1.5<br><br><br>1.5<br>---<br><br>* Include pip 0.8.1.<br><br>* Add support for PyPy.<br><br>* Uses a proper temporary dir when installing environment requirements.<br><br>* Add ``--prompt`` option to be able to override the default prompt prefix.<br><br>* Fix an issue with ``--relocatable`` on Windows.<br><br>* Fix issue with installing the wrong version of distribute.<br><br>* Add fish and csh activate scripts.<br><br><br>1.4.9<br>-----<br><br>* Include pip 0.7.2<br><br><br>1.4.8<br>-----<br><br>* Fix for Mac OS X Framework builds that use<br>  ``--universal-archs=intel``<br><br>* Fix ``activate_this.py`` on Windows.<br><br>* Allow ``$PYTHONHOME`` to be set, so long as you use ``source<br>  bin/activate`` it will get unset; if you leave it set and do not<br>  activate the environment it will still break the environment.<br><br>* Include pip 0.7.1<br><br><br>1.4.7<br>-----<br><br>* Include pip 0.7<br><br><br>1.4.6<br>-----<br><br>* Allow ``activate.sh`` to skip updating the prompt (by setting<br>  ``$VIRTUAL_ENV_DISABLE_PROMPT``).<br><br><br>1.4.5<br>-----<br><br>* Include pip 0.6.3<br><br>* Fix ``activate.bat`` and ``deactivate.bat`` under Windows when<br>  ``PATH`` contained a parenthesis<br><br><br>1.4.4<br>-----<br><br>* Include pip 0.6.2 and Distribute 0.6.10<br><br>* Create the ``virtualenv`` script even when Setuptools isn't<br>  installed<br><br>* Fix problem with ``virtualenv --relocate`` when ``bin/`` has<br>  subdirectories (e.g., ``bin/.svn/``); from Alan Franzoni.<br><br>* If you set ``$VIRTUALENV_DISTRIBUTE`` then virtualenv will use<br>  Distribute by default (so you don't have to remember to use<br>  ``--distribute``).<br><br><br>1.4.3<br>-----<br><br>* Include pip 0.6.1<br><br><br>1.4.2<br>-----<br><br>* Fix pip installation on Windows<br><br>* Fix use of stand-alone ``virtualenv.py`` (and boot scripts)<br><br>* Exclude ~/.local (user site-packages) from environments when using<br>  ``--no-site-packages``<br><br><br>1.4.1<br>-----<br><br>* Include pip 0.6<br><br><br>1.4<br>---<br><br>* Updated setuptools to 0.6c11<br><br>* Added the --distribute option<br><br>* Fixed packaging problem of support-files<br><br><br>1.3.4<br>-----<br><br>* Virtualenv now copies the actual embedded Python binary on<br>  Mac OS X to fix a hang on Snow Leopard (10.6).<br><br>* Fail more gracefully on Windows when ``win32api`` is not installed.<br><br>* Fix site-packages taking precedent over Jython's ``__classpath__``<br>  and also specially handle the new ``__pyclasspath__`` entry in<br>  ``sys.path``.<br><br>* Now copies Jython's ``registry`` file to the virtualenv if it exists.<br><br>* Better find libraries when compiling extensions on Windows.<br><br>* Create ``Scripts\pythonw.exe`` on Windows.<br><br>* Added support for the Debian/Ubuntu<br>  ``/usr/lib/pythonX.Y/dist-packages`` directory.<br><br>* Set ``distutils.sysconfig.get_config_vars()['LIBDIR']`` (based on<br>  ``sys.real_prefix``) which is reported to help building on Windows.<br><br>* Make ``deactivate`` work on ksh<br><br>* Fixes for ``--python``: make it work with ``--relocatable`` and the<br>  symlink created to the exact Python version.<br><br><br>1.3.3<br>-----<br><br>* Use Windows newlines in ``activate.bat``, which has been reported to help<br>  when using non-ASCII directory names.<br><br>* Fixed compatibility with Jython 2.5b1.<br><br>* Added a function ``virtualenv.install_python`` for more fine-grained<br>  access to what ``virtualenv.create_environment`` does.<br><br>* Fix `a problem &lt;https: bugs.launchpad.net="" virtualenv="" +bug="" 241581=""&gt;`_<br>  with Windows and paths that contain spaces.<br><br>* If ``/path/to/env/.pydistutils.cfg`` exists (or<br>  ``/path/to/env/pydistutils.cfg`` on Windows systems) then ignore<br>  ``~/.pydistutils.cfg`` and use that other file instead.<br><br>* Fix ` a problem<br>  &lt;https: bugs.launchpad.net="" virtualenv="" +bug="" 340050=""&gt;`_ picking up<br>  some ``.so`` libraries in ``/usr/local``.<br><br><br>1.3.2<br>-----<br><br>* Remove the ``[install] prefix = ...`` setting from the virtualenv<br>  ``distutils.cfg`` -- this has been causing problems for a lot of<br>  people, in rather obscure ways.<br><br>* If you use a boot script it will attempt to import ``virtualenv``<br>  and find a pre-downloaded Setuptools egg using that.<br><br>* Added platform-specific paths, like ``/usr/lib/pythonX.Y/plat-linux2``<br><br><br>1.3.1<br>-----<br><br>* Real Python 2.6 compatibility.  Backported the Python 2.6 updates to<br>  ``site.py``, including `user directories<br>  &lt;http: docs.python.org="" dev="" whatsnew="" 2.6.html#pep-370-per-user-site-packages-directory=""&gt;`_<br>  (this means older versions of Python will support user directories,<br>  whether intended or not).<br><br>* Always set ``[install] prefix`` in ``distutils.cfg`` -- previously<br>  on some platforms where a system-wide ``distutils.cfg`` was present<br>  with a ``prefix`` setting, packages would be installed globally<br>  (usually in ``/usr/local/lib/pythonX.Y/site-packages``).<br><br>* Sometimes Cygwin seems to leave ``.exe`` off ``sys.executable``; a<br>  workaround is added.<br><br>* Fix ``--python`` option.<br><br>* Fixed handling of Jython environments that use a<br>  jython-complete.jar.<br><br><br>1.3<br>---<br><br>* Update to Setuptools 0.6c9<br>* Added an option ``virtualenv --relocatable EXISTING_ENV``, which<br>  will make an existing environment "relocatable" -- the paths will<br>  not be absolute in scripts, ``.egg-info`` and ``.pth`` files.  This<br>  may assist in building environments that can be moved and copied.<br>  You have to run this *after* any new packages installed.<br>* Added ``bin/activate_this.py``, a file you can use like<br>  ``execfile("path_to/activate_this.py",<br>  dict(__file__="path_to/activate_this.py"))`` -- this will activate<br>  the environment in place, similar to what `the mod_wsgi example<br>  does &lt;http: code.google.com="" p="" modwsgi="" wiki="" virtualenvironments=""&gt;`_.<br>* For Mac framework builds of Python, the site-packages directory<br>  ``/Library/Python/X.Y/site-packages`` is added to ``sys.path``, from<br>  Andrea Rech.<br>* Some platform-specific modules in Macs are added to the path now<br>  (``plat-darwin/``, ``plat-mac/``, ``plat-mac/lib-scriptpackages``),<br>  from Andrea Rech.<br>* Fixed a small Bashism in the ``bin/activate`` shell script.<br>* Added ``__future__`` to the list of required modules, for Python<br>  2.3.  You'll still need to backport your own ``subprocess`` module.<br>* Fixed the ``__classpath__`` entry in Jython's ``sys.path`` taking<br>  precedent over virtualenv's libs.<br><br><br>1.2<br>---<br><br>* Added a ``--python`` option to select the Python interpreter.<br>* Add ``warnings`` to the modules copied over, for Python 2.6 support.<br>* Add ``sets`` to the module copied over for Python 2.3 (though Python<br>  2.3 still probably doesn't work).<br><br><br>1.1.1<br>-----<br><br>* Added support for Jython 2.5.<br><br><br>1.1<br>---<br><br>* Added support for Python 2.6.<br>* Fix a problem with missing ``DLLs/zlib.pyd`` on Windows.  Create<br>* ``bin/python`` (or ``bin/python.exe``) even when you run virtualenv<br>  with an interpreter named, e.g., ``python2.4``<br>* Fix MacPorts Python<br>* Added --unzip-setuptools option<br>* Update to Setuptools 0.6c8<br>* If the current directory is not writable, run ez_setup.py in ``/tmp``<br>* Copy or symlink over the ``include`` directory so that packages will<br>  more consistently compile.<br><br><br>1.0<br>---<br><br>* Fix build on systems that use ``/usr/lib64``, distinct from<br>  ``/usr/lib`` (specifically CentOS x64).<br>* Fixed bug in ``--clear``.<br>* Fixed typos in ``deactivate.bat``.<br>* Preserve ``$PYTHONPATH`` when calling subprocesses.<br><br><br>0.9.2<br>-----<br><br>* Fix include dir copying on Windows (makes compiling possible).<br>* Include the main ``lib-tk`` in the path.<br>* Patch ``distutils.sysconfig``: ``get_python_inc`` and<br>  ``get_python_lib`` to point to the global locations.<br>* Install ``distutils.cfg`` before Setuptools, so that system<br>  customizations of ``distutils.cfg`` won't effect the installation.<br>* Add ``bin/pythonX.Y`` to the virtualenv (in addition to<br>  ``bin/python``).<br>* Fixed an issue with Mac Framework Python builds, and absolute paths<br>  (from Ronald Oussoren).<br><br><br>0.9.1<br>-----<br><br>* Improve ability to create a virtualenv from inside a virtualenv.<br>* Fix a little bug in ``bin/activate``.<br>* Actually get ``distutils.cfg`` to work reliably.<br><br><br>0.9<br>---<br><br>* Added ``lib-dynload`` and ``config`` to things that need to be<br>  copied over in an environment.<br>* Copy over or symlink the ``include`` directory, so that you can<br>  build packages that need the C headers.<br>* Include a ``distutils`` package, so you can locally update<br>  ``distutils.cfg`` (in ``lib/pythonX.Y/distutils/distutils.cfg``).<br>* Better avoid downloading Setuptools, and hitting PyPI on environment<br>  creation.<br>* Fix a problem creating a ``lib64/`` directory.<br>* Should work on MacOSX Framework builds (the default Python<br>  installations on Mac).  Thanks to Ronald Oussoren.<br><br><br>0.8.4<br>-----<br><br>* Windows installs would sometimes give errors about ``sys.prefix`` that<br>  were inaccurate.<br>* Slightly prettier output.<br><br><br>0.8.3<br>-----<br><br>* Added support for Windows.<br><br><br>0.8.2<br>-----<br><br>* Give a better warning if you are on an unsupported platform (Mac<br>  Framework Pythons, and Windows).<br>* Give error about running while inside a workingenv.<br>* Give better error message about Python 2.3.<br><br><br>0.8.1<br>-----<br><br>Fixed packaging of the library.<br><br><br>0.8<br>---<br><br>Initial release.  Everything is changed and new!
+
+<a name="downloads">&nbsp;</a>
+<table class="list" style="margin-bottom: 10px;">
+<tr>
+  <th>File</th>
+  <th>Type</th>
+  <th>Py Version</th>
+  <th>Uploaded on</th>
+  <th style="text-align: right;">Size</th>
+</tr>
+
+<tr class="odd">
+
+    <td>
+    <span style="white-space: nowrap;">
+      <a href="https://pypi.python.org/packages/py2.py3/v/virtualenv/virtualenv-13.1.0-py2.py3-none-any.whl#md5=d57872cd70dcc13f3053418989e973d3">virtualenv-13.1.0-py2.py3-none-any.whl</a>
+      (<a title="MD5 Digest" href="/pypi?:action=show_md5&amp;digest=d57872cd70dcc13f3053418989e973d3">md5</a>,
+       <a title="PGP Signature" href="https://pypi.python.org/packages/py2.py3/v/virtualenv/virtualenv-13.1.0-py2.py3-none-any.whl.asc">pgp</a>)
+    </span>
+    
+        </td>
+  <td style="white-space: nowrap;">
+    Python Wheel
+  </td>
+  <td>
+    py2.py3
+  </td>
+  <td>2015-07-01</td>
+  <td style="text-align: right;">1MB</td>
+
+</tr>
+<tr class="even">
+
+    <td>
+    <span style="white-space: nowrap;">
+      <a href="https://pypi.python.org/packages/source/v/virtualenv/virtualenv-13.1.0.tar.gz#md5=70f63a429b7dd7c3e10f6af09ed32554">virtualenv-13.1.0.tar.gz</a>
+      (<a title="MD5 Digest" href="/pypi?:action=show_md5&amp;digest=70f63a429b7dd7c3e10f6af09ed32554">md5</a>,
+       <a title="PGP Signature" href="https://pypi.python.org/packages/source/v/virtualenv/virtualenv-13.1.0.tar.gz.asc">pgp</a>)
+    </span>
+    
+        </td>
+  <td style="white-space: nowrap;">
+    Source
+  </td>
+  <td>
+    
+  </td>
+  <td>2015-07-01</td>
+  <td style="text-align: right;">1MB</td>
+
+</tr>
+
+<tr><td id="last" colspan="6"/></tr>
+  </table>
+
+<ul class="nodot">
+  <li><strong>Downloads (All Versions):</strong></li>
+  <li>
+    <span>47897</span> downloads in the last day
+  </li>
+  <li>
+    <span>494995</span> downloads in the last week
+  </li>
+  <li>
+    <span>2148732</span> downloads in the last month
+  </li>
+</ul>
+
+
+
+<ul class="nodot">
+ <li>
+  <strong>Author:</strong>
+  <span>Jannis Leidel, Carl Meyer and Brian Rosner</span>
+ </li>
+
+ 
+
+ 
+
+<!-- The <th> elements below are a terrible terrible hack for setuptools -->
+ <li>
+  <strong>Home Page:</strong>
+  <!-- <th>Home Page -->
+  <a href="https://virtualenv.pypa.io/">https://virtualenv.pypa.io/</a>
+ </li>
+
+
+ 
+
+ 
+
+
+ <li>
+  <strong>Keywords:</strong>
+  <span>setuptools deployment installation distutils</span>
+ </li>
+
+ <li>
+  <strong>License:</strong>
+  
+  
+  <span>MIT</span>
+  
+ </li>
+
+ 
+
+<!-- TODO: add link to products in follow dependencies... -->
+ 
+ 
+ 
+
+ <li>
+  <strong>Categories</strong>
+  <ul class="nodot">
+   <li>
+    <a href="/pypi?:action=browse&amp;c=5">Development Status :: 5 - Production/Stable</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=30">Intended Audience :: Developers</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=69">License :: OSI Approved :: MIT License</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=527">Programming Language :: Python :: 2</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=531">Programming Language :: Python :: 2.6</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=532">Programming Language :: Python :: 2.7</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=533">Programming Language :: Python :: 3</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=535">Programming Language :: Python :: 3.1</a>
+   </li>
+   <li>
+    <a href="/pypi?:action=browse&amp;c=538">Programming Language :: Python :: 3.2</a>
+   </li>
+  </ul>
+ </li>
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ <li>
+  <strong>Package Index Owner:</strong>
+  <span>ianb, jezdez, carljm, brosner, dstufft, qwcode</span>
+ </li>
+
+ 
+
+ <li>
+  <strong><a href="http://usefulinc.com/doap">DOAP</a> record:</strong>
+  <a href="/pypi?:action=doap&amp;name=virtualenv&amp;version=13.1.0">virtualenv-13.1.0.xml</a>
+ </li>
+
+</ul>
+
+
+
+
+
+            </div>
+
+
+          </div>
+          <div id="footer"><div id="credits">
+            <a href="http://www.python.org/about/website">Website maintained by the Python community</a><br/>
+            <a href="https://www.fastly.com/" title="Real-time CDN services provided by Fastly">Real-time CDN by Fastly</a> /
+            <a href="http://developer.rackspace.com/" title="Server hosting by Rackspace Open Source support">hosting by Rackspace</a> /
+            <a href="http://www.timparkin.co.uk/" title="Design by Tim Parkin, Yorkshire man, photographer and developer">design by Tim Parkin</a>
+          </div>
+          Copyright © 1990-2014, <a href="http://www.python.org/psf">Python Software Foundation</a><br/>
+          <a href="http://www.python.org/about/legal">Legal Statements</a>
+
+          </div>
+        </div>
+      </div>
+
+      
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-55961911-1', 'auto');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+      </script>
+      
+
+      <script type="text/javascript" src="//statuspage-production.s3.amazonaws.com/se-v2.js">
+      </script>
+      <script type="text/javascript">
+        var sp = new StatusPage.page({ page : '2p66nmmycsj3' });
+        sp.summary({
+          // <![CDATA[
+          success: function(data) {
+            var div = document.getElementById('statusdiv');
+            var reports = "</br><h4 id='statusbox'>Status</h4>\n";
+            var outage = 0;
+            var maintenance = 0;
+            for (i in data.incidents) {
+              var incident = data.incidents[i];
+              var message, status = incident.status;
+              if (status === 'scheduled') {
+                message = '<li><a href="' + incident.shortlink + '">' + incident.name + ' scheduled.</a></li>\n';
+                reports += message;
+                maintenance += 1;
+              } else if (status === 'in_progress') {
+                message = '<li><a href="' + incident.shortlink + '">' + incident.name + ' is currently in progress.' + '</a></li>\n';
+                reports += message;
+                maintenance += 1;
+              } else if (status !== 'resolved' && status !== 'postmortem' && status !== 'completed') {
+                message = '<li><a href="' + incident.shortlink + '">' + incident.name + ': ' + incident.status + '</a></li>\n';
+                reports += message;
+                outage += 1;
+              }
+            }
+            if (outage + maintenance === 0) {
+              reports += "<li><a href='http://status.python.org'>Nothing to report</a></li>";
+            }
+            div.innerHTML=reports;
+            if (outage > 0) {
+              var statusbox = document.getElementById("statusbox");
+              statusbox.style.background = '#FC234A';
+            }
+          }
+          // ]]>
+        });
+      </script>
+
+    </body>
+  </html>
+

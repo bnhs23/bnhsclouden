@@ -1,0 +1,313 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+gnome-session[1937]: WARNING: Error while executing session-migration: Failed to execute child process "session-migration" (No such file or directory)
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): keyboard-plugin-WARNING **: Unhandled settings change, key 'input-sources-switcher'
+
+(gnome-settings-daemon:2083): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(gnome-settings-daemon:2083): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.gnome.desktop.background'
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.appearance'
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.keybindings'
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.shadows'
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.behavior'
+Window manager warning: Log level 128: PluginManager.vala:132: Loaded plugin Mask Corners (libgala-maskcorners.so)
+Window manager warning: Log level 128: PluginManager.vala:132: Loaded plugin Notify (libgala-notify.so)
+Window manager warning: Log level 128: PluginManager.vala:132: Loaded plugin Zoom (libgala-zoom.so)
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.mask-corners'
+Window manager warning: Log level 128: Preferences.vala:328: Loading preferences from file '/home/elementary/.config/plank/dock1/settings'
+Window manager warning: Log level 16: Preferences.vala:344: Missing key 'HideDelay' for group 'PlankDockPreferences' in preferences file '/home/elementary/.config/plank/dock1/settings' - using default value
+Window manager warning: Log level 16: Preferences.vala:344: Missing key 'LockItems' for group 'PlankDockPreferences' in preferences file '/home/elementary/.config/plank/dock1/settings' - using default value
+Window manager warning: Log level 16: Preferences.vala:344: Missing key 'PressureReveal' for group 'PlankDockPreferences' in preferences file '/home/elementary/.config/plank/dock1/settings' - using default value
+Window manager warning: Log level 16: Preferences.vala:344: Missing key 'PinnedOnly' for group 'PlankDockPreferences' in preferences file '/home/elementary/.config/plank/dock1/settings' - using default value
+Window manager warning: Log level 16: Preferences.vala:344: Missing key 'AutoPinning' for group 'PlankDockPreferences' in preferences file '/home/elementary/.config/plank/dock1/settings' - using default value
+Window manager warning: Log level 128: Preferences.vala:510: Saving preferences '/home/elementary/.config/plank/dock1/settings'
+Window manager warning: Log level 16: Preferences.vala:184: '/usr/share/themes/elementary/plank/dock.theme' is read-only!
+Window manager warning: Log level 128: Preferences.vala:328: Loading preferences from file '/usr/share/themes/elementary/plank/dock.theme'
+initctl: UPSTART_SESSION isn't set in the environment. Unable to locate the Upstart instance.
+
+(process:2367): libnotify-WARNING **: Failed to connect to proxy
+
+** (process:2367): CRITICAL **: volume_control_set_volume_internal: assertion '_tmp1_ == PA_CONTEXT_READY' failed
+
+** (process:2367): CRITICAL **: file /build/buildd/indicator-sound-12.10.2+14.04.20140401/obj-i686-linux-gnu/src/volume-control.c: line 1787: uncaught error: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface (g-dbus-error-quark, 16)
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1600004 (wingpanel)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.animations'
+Window manager warning: Log level 128: Settings.vala:158: Loading settings from schema 'org.pantheon.desktop.gala.notifications'
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1e00004 (Slingshot)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: last_focus_time (70834) is greater than comparison timestamp (70808).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+
+** (zeitgeist-datahub:3307): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Window manager warning: Log level 128: Preferences.vala:328: Loading preferences from file '/home/elementary/.config/plank/dock1/settings'
+Window manager warning: last_focus_time (83503) is greater than comparison timestamp (83502).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x240000b ()
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+nm-applet-Message: No keyring secrets found for JOSH CoolitNetwork/802-11-wireless-security; asking user.
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_new_with_path: assertion 'path_is_valid (path)' failed
+
+(nm-applet:2381): GLib-GIO-CRITICAL **: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_type: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_type_is_subtype_of: assertion 'g_variant_type_check (type)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_get_boolean: assertion 'g_variant_is_of_type (value, G_VARIANT_TYPE_BOOLEAN)' failed
+
+(nm-applet:2381): GLib-CRITICAL **: g_variant_unref: assertion 'value != NULL' failed
+
+(nm-applet:2381): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Window manager warning: last_focus_time (130141) is greater than comparison timestamp (130139).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Log level 128: Preferences.vala:328: Loading preferences from file '/home/elementary/.config/plank/dock1/settings'
+Window manager warning: last_focus_time (248718) is greater than comparison timestamp (248716).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-CRITICAL **: Source ID 757340 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 757394 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 757480 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 757829 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 758018 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 758164 was not found when attempting to remove it
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-CRITICAL **: Source ID 758164 was not found when attempting to remove it
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-CRITICAL **: Source ID 787915 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+
+(midori4:3891): GLib-CRITICAL **: Source ID 815570 was not found when attempting to remove it
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Log level 8: meta_end_modal_for_plugin: assertion 'compositor->modal_plugin == plugin' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(midori4:3891): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(process:2346): GLib-CRITICAL **: g_variant_get_string: assertion 'value != NULL' failed
