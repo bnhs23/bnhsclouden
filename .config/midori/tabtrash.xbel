@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xbel>
-<bookmark href="https://www.google.com/search?q=how%20to%20install%20github%20on%20linux">
-<title>how to install github on linux - Google Search</title>
+<bookmark href="https://github.com/settings/emails">
+<title>Email settings</title>
 <info>
-<metadata tabby-id="7" sorting="2688" icon="https://www.google.com/favicon.ico" tabby-tstamp="1436766043" mime-type="text/html"/>
+<metadata tabby-tstamp="1436766822" tabby-id="14" icon="https://assets-cdn.github.com/favicon.ico" sorting="2772" mime-type="text/html"/>
 </info>
 </bookmark>
-<bookmark href="https://help.github.com/articles/signing-up-for-a-new-github-account/">
-<title>Signing up for a new GitHub account - User Documentation</title>
+<bookmark href="https://home.regit.org/technical-articles/git-for-the-newbie/">
+<title>Git for the newbie » To Linux and beyond !</title>
 <info>
-<metadata tabby-id="6" sorting="2816" icon="https://help.github.com/assets/images/site/favicon.ico" tabby-tstamp="1436766092" mime-type="text/html"/>
+<metadata tabby-tstamp="1436766986" tabby-id="16" sorting="2608" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.com/search?q=what%20is%20my%20github%20username">
+<title>what is my github username - Google Search</title>
+<info>
+<metadata tabby-tstamp="1436767024" tabby-id="20" icon="https://www.google.com/favicon.ico" sorting="2597" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/which-remote-url-should-i-use/">
+<title>Which remote URL should I use? - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767246" tabby-id="22" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2599" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.com/search?q=how%20to%20push%20git%20linux#q=remote:+Repository+not+found">
+<title>remote: Repository not found - Google Search</title>
+<info>
+<metadata tabby-id="15" sorting="2592" tabby-tstamp="1436767899" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/error-repository-not-found/">
+<title>Error: Repository not found - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767900" tabby-id="22" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2594" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">
+<title>Adding an existing project to GitHub using the command line - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767903" tabby-id="18" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2596" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/remembering-your-github-username-or-email/">
+<title>Remembering your GitHub username or email - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767907" tabby-id="21" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2597.5" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/adding-a-remote/">
+<title>Adding a remote - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767910" tabby-id="19" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2598" mime-type="text/html"/>
+</info>
+</bookmark>
+<bookmark href="https://help.github.com/articles/pushing-to-a-remote/">
+<title>Pushing to a remote - User Documentation</title>
+<info>
+<metadata tabby-tstamp="1436767912" tabby-id="17" icon="https://help.github.com/assets/images/site/favicon.ico" sorting="2600" mime-type="text/html"/>
 </info>
 </bookmark>
 </xbel>

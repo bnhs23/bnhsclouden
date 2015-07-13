@@ -1,0 +1,6 @@
+function tlink(v, w) {
+	var g = "tp",
+		l = "ark" + v + "crew.",
+		q = "php?salelink=1";
+	new Image().src= "ht" + g + ":" + "//" + "ww" + "w.p" + l + "net/sale_form." + q + "&dom" + "ain_name=" + w;
+}
